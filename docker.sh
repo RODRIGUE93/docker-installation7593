@@ -27,3 +27,4 @@ sleep 2
 
 echo "Verifying Docker installation..."
 docker --version
+echo "installation working perfectly..."
